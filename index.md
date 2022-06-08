@@ -1,27 +1,17 @@
----
-layout: default
----
+# Projects
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Disney – Choice Modelling
+## Disney – Choice Modelling
 * Testing out a new Dynamic pricing structure by season to reduce the pressure on the parks during the peak season
 * Price elasticity of new ticket structure – Shifting travel dates versus drop-out
 * Sensitivity of multi-day ticket purchase intenders to seasonality and multi-day ticket discount levels
 
-# Microsoft Emotional Modelling – Estimate the emotional trace of an Ad
+## Microsoft Emotional Modelling – Estimate the emotional trace of an Ad
 * Batch test ads to understand market context
 * Screen ads for smaller brands or secondary campaign assets
 * Evaluate different versions of the same ad, such as different lengths and calls to action
 * Spend money only on content that’s proven to work
 
-# Vodafone – Driver modelling
+## Vodafone – Driver modelling
 * Estimate the Relative influence of Emotional and Functional Drivers on LTR, NPS.
 * Built an Excel simulator to understand the change in various touchpoints – LTR, NPS, NSS – when each of drivers are changed.
 * Used Confirmatory Factor Analysis to come up with themes from the granular attributes.
